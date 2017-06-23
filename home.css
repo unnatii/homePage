@@ -1,0 +1,108 @@
+
+#sec{
+ background-image: url("2.jpg");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;}
+
+#heading1{
+position:absolute;
+color:#CB4335   ;
+font-size:20px;
+padding:0px 0 0 630px; 
+margin:0px;
+}
+.addBtn1{
+background-color:#CB4335;
+padding:3px 3px 3px 3px;
+cursor: pointer;
+margin:0;
+}
+#Input{
+font-size:15px;
+width:130px;
+margin:20px 0 0 630px;
+}
+
+
+
+#mynote{
+position:absolute;
+list-style-type:none;
+width:170px;
+height:120px;
+margin:0px 0 0 630px;
+overflow:scroll ;
+padding:0px;
+}
+
+
+
+
+#heading2{
+position:absolute;
+color:#1F618D  ;
+font-size:30px;
+padding:160px 0 0 620px; 
+}
+
+#box{
+position:absolute;
+color:#1F618D  ;
+font-size:15px;
+padding:190px 0 0 620px; 
+}
+#myInput{
+font-size:15px;
+width:130px;
+
+}
+.addBtn{
+background-color:#94B3D2;
+padding:3px 3px 3px 3px;
+cursor: pointer;
+}
+
+#myList{
+position:absolute;
+list-style-type:none;
+width:170px;
+height:220px;
+margin:230px 0 0 620px;
+overflow:scroll;
+padding:0px
+}
+
+    
+
+
+li{
+position:relative;
+font-size:15px;
+cursor: pointer;
+color:#1F618D ;
+padding:3px 3px 3px 0;;
+
+}
+.close {
+ position:relative;
+padding:0 10px 0;}
+
+#fb{
+position:absolute;
+margin:60px 0 0 950px;}
+#tube{
+position:absolute;
+margin:60px 0 0 1030px;}
+#twitter{
+position:absolute;
+margin:60px 0 0 1110px;}
+#mail{
+position:absolute;
+margin:130px 0 0 950px;}
+#in{
+position:absolute;
+margin:130px 0 0 1030px;}
+#git{
+position:absolute;
+margin:130px 0 0 1110px;}
